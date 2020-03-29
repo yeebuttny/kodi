@@ -12,11 +12,6 @@ from resources.lib import common
 
 def route(p):
 	update(p)
-	action=p.get("action","MainMenu")
-	if action:
-		eval(action)(p)
-	else:
-		MainMenu(p)
 		
 # link to file with versions
 # https://github.com/yeebuttny/plugs/raw/master/versions.txt
@@ -24,11 +19,7 @@ def route(p):
 
 aURL=common.sysaddon+"?mode=selfupdate"
 
-def MainMenu(p):
-	xbmcplugin.addDirectoryItem(handle=common.addon_handle,url=aURL+"&action=update",listitem=xbmcgui.ListItem("[COLOR orange]show directory[/COLOR]"),isFolder=True)
-	
-	xbmcplugin.setContent(common.addon_handle, 'tvshows')
-	xbmcplugin.endOfDirectory(common.addon_handle)
+
 ## -==================== END ====================- 
 def update(p):
 	# read local version file
