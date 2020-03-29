@@ -11,6 +11,7 @@ from resources.lib import helpers
 from resources.lib import common
 
 def route(p):
+	update(p)
 	action=p.get("action","MainMenu")
 	if action:
 		eval(action)(p)
@@ -53,11 +54,12 @@ def update(p):
 				common.log(plug+' new version found: '+rvd[plug])
 				if updatelocal(plug):
 					lvd[plug]=rvd[plug]
-					common.info(plug+ 'zaktualizowano do wersji: '+rvd[plug])
+					common.info(plug+ ' - zaktualizowano do wersji: '+rvd[plug])
 		saveVersions(lvd)
+		common.info('Aktualizacja zakończona','selfupdate')
 	else:
 		common.info('nie pobrano danych','getURL error')
-
+	
 
 def get(u,d=None,ref=None,h=None):
 	if u:
