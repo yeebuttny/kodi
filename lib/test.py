@@ -52,8 +52,8 @@ def update(p):
 			else:
 				common.log('remote: '+plug+'-'+rvd[plug]+' |')
 				common.log(plug+' new version found: '+rvd[plug])
-					if updatelocal(plug):
-						lvd[plug]=rvd[plug]
+				if updatelocal(plug):
+					lvd[plug]=rvd[plug]
 		saveVersions(lvd)
 	else:
 		common.info('nie pobrano danych','getURL error')
