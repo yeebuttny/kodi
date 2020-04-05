@@ -386,11 +386,6 @@ def addLink(title,nE,link,img,data,sendto,isOnline):
 	u=common.sysaddon+"?mode="+str(sendto)+"&url="+urllib.quote_plus(l)
 	ok=xbmcplugin.addDirectoryItem(handle=common.addon_handle,url=u,listitem=li,isFolder=False)##change to False
 	return ok
-def login(a):
-	d={'username':'yeebuttny','password':'dragon','remember':'on','login':''}
-	l=common.post('https://shinden.pl/main/0/login',d,'https://shinden.pl/main/login')
-	if not l==None:
-		common.log(l.text.encode('utf-8'))
 
 def nowe(a):
 	xbmcplugin.endOfDirectory(common.addon_handle)
