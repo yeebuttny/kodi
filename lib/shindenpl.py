@@ -387,5 +387,45 @@ def addLink(title,nE,link,img,data,sendto,isOnline):
 	ok=xbmcplugin.addDirectoryItem(handle=common.addon_handle,url=u,listitem=li,isFolder=False)##change to False
 	return ok
 
-def nowe(a):
+
+def nowe(params):
+	u=MURL#+params.get('url','')	
+	l=common.solveCFP(u)
+	sezon=None
+	if not l==None:
+		m=re.compile('<section class=\".*box-new-series\">.*?<ul class=\"seasons-list\">(.*?)<\/ul>',re.DOTALL).findall(l.text.encode('utf-8'))
+		if m:
+			sezony=re.compile('<a href=\"(.*?)\">(.*?)<\/a>',re.DOTALL).findall(m[0])
+		if sezony:
+			# przetestowac
+			slinks=[]
+			snames=[]
+			for s in sezony:
+				slinks.append(s[0])
+				snames.append(s[1])
+			sezon=slinks[xbmcgui.Dialog().select('Wybor zrodla',snames)]
+			common.log(sezon)
+		else:
+			sezon="/series/season/current"
+	l=None
+	l=common.solveCFP(u+sezon)
+	if not l==None:
+		rows=re.compile('<li class=\"title anime\".*?<section>.*?<a href=\"(.*?)\" class=\"img  media-title-cover\".*?<img src=\"(.*?)\" alt=\"(.*?)\".*?<div class=\"title-desc box-scrollable\">(.*?)<\/div>',re.DOTALL).findall(l.text.encode('utf-8'))
+		if rows:
+			for r in range(len(rows)):
+				title=rows[r][2]
+				link=rows[r][0]
+				img=rows[r][1]
+				desc=rows[r][3]
+				l=link+"/all-episodes"
+				li=xbmcgui.ListItem(title,thumbnailImage=MURL+img)
+				
+				info={'plotoutline':desc,'plot':desc}
+				li.setInfo( type="video", infoLabels = info )
+				u=common.sysaddon+"?mode=shindenpl&action=seria&url="+urllib.quote_plus(l)
+				xbmcplugin.addDirectoryItem(handle=common.addon_handle,url=u,listitem=li,isFolder=True)
+				
+				
+				
+	xbmcplugin.setContent(common.addon_handle, 'episodes')		
 	xbmcplugin.endOfDirectory(common.addon_handle)
