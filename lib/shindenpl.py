@@ -292,8 +292,7 @@ def decodeCDA(videofile): ##podziekowania dla mbebe za decoder
 		else:
 			b=chr(f)
 		linkvid+=b
-	if not linkvid.endswith('.mp4'):
-		linkvid += '.mp4'
+	
 	linkvid = linkvid.replace("adc.mp4", ".mp4")
 	linkvid = linkvid.replace(".cda.mp4", "")
 	linkvid = linkvid.replace(".2cda.pl", ".cda.pl")
@@ -301,9 +300,11 @@ def decodeCDA(videofile): ##podziekowania dla mbebe za decoder
 	linkvid = linkvid.replace(".3cda.pl", ".cda.pl")
 	linkvid = linkvid.replace("0)sss.mp4", ".mp4")
 	linkvid = linkvid.replace("0r)s.mp4", ".mp4")
-
+	linkvid = linkvid[:linkvid.index('0"')]
 	if not linkvid.startswith('http'):
 		linkvid = 'https://'+linkvid
+	if not linkvid.endswith('.mp4'):
+		linkvid += '.mp4'
 	return linkvid
 
 def resolveCDA(l):
