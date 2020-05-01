@@ -13,6 +13,7 @@ from resources.lib import common
 from resources.lib import alltubepl
 from resources.lib import shindenpl
 from resources.lib import selfupdate
+from resources.lib import mysrc
 
 def addDirectoryItem(u,li,folder=True):
 	return xbmcplugin.addDirectoryItem(handle=common.addon_handle,url=common.sysaddon+u,listitem=li,isFolder=folder)
@@ -27,7 +28,7 @@ def main():
 	else:
 		common.addDirectoryItem("?mode=alltubepl",xbmcgui.ListItem("[COLOR azure]alltube.pl - [filmy | seriale][/COLOR]"),True)
 		common.addDirectoryItem("?mode=shindenpl",xbmcgui.ListItem("[COLOR orange]shinden.pl - [anime][/COLOR]"),True)
-		#common.addDirectoryItem("?mode=animezonepl",xbmcgui.ListItem("[COLOR skyblue]animezone.pl - [anime][/COLOR]"),True)
+		common.addDirectoryItem("?mode=mysrc",xbmcgui.ListItem("[COLOR skyblue]mysrc[/COLOR]"),True)
 		common.addDirectoryItem("?mode=selfupdate",xbmcgui.ListItem("[COLOR yellowgreen]Aktualizacja[/COLOR]"),False)
 		xbmcplugin.setContent(common.addon_handle, 'tvshows')
 		xbmcplugin.endOfDirectory(common.addon_handle)
