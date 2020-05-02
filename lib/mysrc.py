@@ -70,6 +70,10 @@ def mdict(s):
 
 def playlink(params):
 	u=params.get('url','')
+	if u.endswith('.mp4'):
+		xbmcplugin.setResolvedUrl(common.addon_handle, True, xbmcgui.ListItem(path=u))
+		return
+	
 	link=''
 	try:
 		link=urlresolve.resolve(u)
