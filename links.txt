@@ -1,22 +1,3 @@
-Enen 18;https://ebd.cda.pl/620x395/43538227b
-Enen 19;https://ebd.cda.pl/620x395/4353828ff
-Enen 20;https://ebd.cda.pl/620x395/4353831ca
-Enen 21;https://ebd.cda.pl/620x395/436847738
-Enen 22;https://ebd.cda.pl/620x395/437457090
-Enen 23;https://ebd.cda.pl/620x395/437858706
-Enen 24;https://ebd.cda.pl/620x395/4390551cc
-shinchou Yuusha 1[cda];https://ebd.cda.pl/640x406/399949990
-shinchou Yuusha 2[cda];https://ebd.cda.pl/640x406/401868713
-shinchou Yuusha 3;https://ebd.cda.pl/640x406/40668792f
-shinchou Yuusha 4;https://ebd.cda.pl/640x406/4090690a7
-shinchou Yuusha 5;https://ebd.cda.pl/640x406/4123732d9
-shinchou Yuusha 6;https://ebd.cda.pl/640x406/41543356e
-shinchou Yuusha 7;https://ebd.cda.pl/640x406/418460239
-shinchou Yuusha 8;https://ebd.cda.pl/640x406/4205473b7
-shinchou Yuusha 9;https://ebd.cda.pl/640x406/42256315e
-shinchou Yuusha 10;https://ebd.cda.pl/640x406/429508179
-shinchou Yuusha 11;https://ebd.cda.pl/640x406/4323815d8
-shinchou Yuusha 12;https://ebd.cda.pl/640x406/433465167
 No Guns Life Odcinek 1;https://ebd.cda.pl/620x395/40873788c
 No Guns Life Odcinek 2;https://ebd.cda.pl/620x395/4096765f6
 No Guns Life Odcinek 3;https://ebd.cda.pl/620x395/4096768d7
