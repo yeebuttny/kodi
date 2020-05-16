@@ -41,11 +41,11 @@ def linki(params):
 	if not s==None:
 		rv=s.text.encode('utf-8').replace('\r','').rstrip('\n').split("\n")
 		rvd=mdict(rv)
-		for item in rvd:
-			li=xbmcgui.ListItem(item)
+		for item in range(len(rvd)):
+			li=xbmcgui.ListItem(rvd[item][0])
 			li.setInfo( type="video", infoLabels = {} )
 			li.setProperty('IsPlayable', 'true')
-			u=_url+"&action=playlink&url="+urllib.quote_plus(rvd[item])
+			u=_url+"&action=playlink&url="+urllib.quote_plus(rvd[item][1])
 			xbmcplugin.addDirectoryItem(handle=_handle,url=u,listitem=li,isFolder=False)
 	
 		
@@ -59,10 +59,10 @@ def get(u,d=None,ref=None,h=None):
 		return res	
 
 def mdict(s):
-	d={}
-	for i in s:
-		ii=i.split(';')
-		d[ii[0]]=ii[1]
+	d=[]
+	for i in range(len(s)):
+		ii=s[i].split(';')
+		d.append([ii[0],ii[1]])
 	return d
 
 
