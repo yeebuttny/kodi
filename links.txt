@@ -10,6 +10,19 @@ Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek
 Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 10;https://ebd.cda.pl/620x395/4361427d4
 Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 11;https://ebd.cda.pl/620x395/4361430c4
 Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 12;https://ebd.cda.pl/620x395/4361433ba
+BnHA 01: "Midoriya Izuku: Geneza" [cda];https://ebd.cda.pl/640x406/2280933e7
+BnHA 02: "Czego potrzeba, by zostać bohaterem" [cda];https://ebd.cda.pl/640x406/2283180dc
+BnHA 03: "Ryczące muskuły" [cda];https://ebd.cda.pl/640x406/2283183c7
+BnHA 04: "Linia startu" [cda];https://ebd.cda.pl/640x406/2283186aa
+BnHA 05: "Tyle póki co mogę zrobić" [cda];https://ebd.cda.pl/640x406/228319237
+BnHA 06: "Wściekłość pieprzonego lamusa" [cda];https://ebd.cda.pl/640x406/228319899
+BnHA 07: "Deku vs Kacchan" [cda];https://ebd.cda.pl/640x406/22832016b
+BnHA 08: "Linia startowa Bakugou" [cda];https://ebd.cda.pl/640x406/228320450
+BnHA 09: "Tak jest, daj z siebie wszystko, Iida!" [cda];https://ebd.cda.pl/640x406/22832075c
+BnHA 10: "Starcie z nieznanym" [cda];https://ebd.cda.pl/640x406/228321347
+BnHA 11: "Game Over" [cda];https://ebd.cda.pl/640x406/22832169d
+BnHA 12: "All Might" [cda];https://ebd.cda.pl/640x406/2283219e8
+BnHA 13: "W każdym z naszych serc" [cda];https://ebd.cda.pl/640x406/2283222a7
  Black Clover 133: "Przebudzenie lwa, ciąg dalszy" [cda];https://ebd.cda.pl/640x406/508890220
  Black Clover 132: "Przebudzenie lwa" [cda];https://ebd.cda.pl/640x406/5089076f9
  Black Clover 131: "Nowe postanowienie" [cda];https://ebd.cda.pl/640x406/50527792b
