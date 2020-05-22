@@ -23,6 +23,31 @@ BnHA 10: "Starcie z nieznanym" [cda];https://ebd.cda.pl/640x406/228321347
 BnHA 11: "Game Over" [cda];https://ebd.cda.pl/640x406/22832169d
 BnHA 12: "All Might" [cda];https://ebd.cda.pl/640x406/2283219e8
 BnHA 13: "W każdym z naszych serc" [cda];https://ebd.cda.pl/640x406/2283222a7
+ BnHA II 01: "A więc o to chodzi, Ochako!" [cda];https://ebd.cda.pl/640x406/228334875
+ BnHA II 02: "Rycząca olimpiada sportowa" [cda];https://ebd.cda.pl/640x406/22833513c
+ BnHA II 03: "Swoim indywidualnym sposobem" [cda];https://ebd.cda.pl/640x406/2283354f0
+ BnHA II 04: "Strategia, strategia, strategia" [cda];https://ebd.cda.pl/640x406/22833572f
+ BnHA II 05: "Finał bitwy kawalerii" [cda];https://ebd.cda.pl/640x406/228336060
+ BnHA II 06: "Chłopiec, który miał wszystko" [cda];https://ebd.cda.pl/640x406/228336331
+ BnHA II 07: "Zwycięstwo i klęska" [cda];https://ebd.cda.pl/640x406/22833669d
+ BnHA II 08: "Do boju, rywale!" [cda];https://ebd.cda.pl/640x406/228336943
+ BnHA II 09: "Bakugo vs Uraraka" [cda];https://ebd.cda.pl/640x406/228337201
+ BnHA II 10: "Shoto Todoroki: Początek" [cda];https://ebd.cda.pl/640x406/228337571
+ BnHA II 11: "Walcz, Iida" [cda];https://ebd.cda.pl/640x406/2283378db
+ BnHA II 12: "Todoroki vs Bakugo" [cda];https://ebd.cda.pl/640x406/228338435
+ BnHA II 13: "Czas wybrać pseudonimy" [cda];https://ebd.cda.pl/640x406/22833876c
+ BnHA II 14: "Pojawia się przedziwny Gran Torino" [cda];https://ebd.cda.pl/640x406/22833901a
+ BnHA II 15: "Midoriya i Shigaraki" [cda];https://ebd.cda.pl/640x406/228339319
+ BnHA II 16: "Zabójca bohaterów Stain kontra uczniowie U.A." [cda];https://ebd.cda.pl/640x406/228339694
+ BnHA II 17: "Kulminacja" [cda];https://ebd.cda.pl/640x406/2283399cf
+ BnHA II 18: "Zabójca bohaterów Stain - podsumowanie" [cda];https://ebd.cda.pl/640x406/228340237
+ BnHA II 19: "Praktyki pozostałych" [cda];https://ebd.cda.pl/640x406/228340572
+ BnHA II 20: "Słuchaj uważnie! Opowieść o przeszłości" [cda];https://ebd.cda.pl/640x406/2283408a9
+ BnHA II 21: "Szykujcie się na egzamin semestralny!" [cda];https://ebd.cda.pl/640x406/2283414e7
+ BnHA II 22: "Yaoyorozu powstaje" [cda];https://ebd.cda.pl/640x406/22834171d
+ BnHA II 23: "Drasnąć warstwę wierzchnią" [cda];https://ebd.cda.pl/640x406/228342036
+ BnHA II 24: "Katsuki Bakugo: Początek" [cda];https://ebd.cda.pl/640x406/228342323
+ BnHA II 25: "Spotkanie" [cda];https://ebd.cda.pl/640x406/228342684
  Black Clover 133: "Przebudzenie lwa, ciąg dalszy" [cda];https://ebd.cda.pl/640x406/508890220
  Black Clover 132: "Przebudzenie lwa" [cda];https://ebd.cda.pl/640x406/5089076f9
  Black Clover 131: "Nowe postanowienie" [cda];https://ebd.cda.pl/640x406/50527792b
