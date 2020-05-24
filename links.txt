@@ -1,3 +1,39 @@
+ Dr Stone 01: "Kamienny świat" [cda];https://ebd.cda.pl/640x406/367684964
+ Dr Stone 02: "Król kamiennego świata" [cda];https://ebd.cda.pl/640x406/3676891a8
+ Dr Stone 03: "Broń nauki" [cda];https://ebd.cda.pl/640x406/369938890
+ Dr Stone 04: "Sygnał dymny" [cda];https://ebd.cda.pl/640x406/3721750ed
+ Dr Stone 05: "Kamienny świat: początek" [cda];https://ebd.cda.pl/640x406/374678822
+ Dr Stone 06: "Dwa kraje kamiennego świata" [cda];https://ebd.cda.pl/640x406/3773266d5
+ Dr Stone 07: "Tam, gdzie minęły dwa miliony lat" [cda];https://ebd.cda.pl/640x406/380109158
+ Dr Stone 08: "Droga kamienia" [cda];https://ebd.cda.pl/640x406/38232169b
+ Dr Stone 09: "I rękoma mymi światło nauki uczyniłem" [cda];https://ebd.cda.pl/640x406/385443175
+ Dr Stone 10: "Płytki sojusz" [cda];https://ebd.cda.pl/640x406/3898231fd
+ Dr Stone 11: "Jasny, wyraźny świat" [cda];https://ebd.cda.pl/640x406/3922873c0
+ Dr Stone 12: "Wzajemnie wspierający się przyjaciele" [cda];https://ebd.cda.pl/640x406/3947227e6
+ Dr Stone 13: "Zamaskowany wojownik" [cda];https://ebd.cda.pl/640x406/398349427
+ Dr Stone 14: "Władca płomieni" [cda];https://ebd.cda.pl/640x406/40046444f
+ Dr Stone 15: "Dwa miliony lat w pigułce" [cda];https://ebd.cda.pl/640x406/40254551e
+ Dr Stone 16: "Opowieść o tysiącach lat" [cda];https://ebd.cda.pl/640x406/405295081
+ Dr Stone 17: "Sto nocy, tysiąc nieboskłonów" [cda];https://ebd.cda.pl/640x406/407368651
+ Dr Stone 18: "Kamienne wojny" [cda];https://ebd.cda.pl/640x406/4097020f4
+ Dr Stone 19: "Prosto do współczesności" [cda];https://ebd.cda.pl/640x406/413029958
+ Dr Stone 20: "Era energii" [cda];https://ebd.cda.pl/640x406/416058760
+ Dr Stone 21: "Spartański klub rzemieślniczy" [cda];https://ebd.cda.pl/640x406/419097157
+ Dr Stone 22: "Skarb" [cda];https://ebd.cda.pl/640x406/4223197e8
+ Dr Stone 23: "Fala nauki" [cda];https://ebd.cda.pl/640x406/4231064c8
+ Dr Stone 24: "Głos do wieczności" [cda];https://ebd.cda.pl/640x406/42763944e
+ Assassins Pride 01: "Litość zabójcy" [cda];https://ebd.cda.pl/640x406/4050592e4
+ Assassins Pride 02: "Gdy zmienia się jej świat" [cda];https://ebd.cda.pl/640x406/4050562d3
+ Assassins Pride 03: "Poza punkt krytyczny" [cda];https://ebd.cda.pl/640x406/4069015f5
+ Assassins Pride 04: "Dwie dziewczyny w zamku łańcuchów" [cda];https://ebd.cda.pl/640x406/4093576c1
+ Assassins Pride 05: "Złota księżniczka i srebrna księżniczka" [cda];https://ebd.cda.pl/640x406/412679507
+ Assassins Pride 06: "Szara wiedźma" [cda];https://ebd.cda.pl/640x406/41574289c
+ Assassins Pride 07: "Brak znaków na niebie i ziemi" [cda];https://ebd.cda.pl/640x406/418822351
+ Assassins Pride 08: "Testament pewnego szkieletu" [cda];https://ebd.cda.pl/640x406/42271524f
+ Assassins Pride 09: "Wieczysty pakt" [cda];https://ebd.cda.pl/640x406/422795614
+ Assassins Pride 10: "Biblioteka-labirynt" [cda];https://ebd.cda.pl/640x406/427156723
+ Assassins Pride 11: "Posłańcy Śmierci" [cda];https://ebd.cda.pl/640x406/4298423ed
+ Assassins Pride 12: "Duma nauczyciela-zabójcy" [cda];https://ebd.cda.pl/640x406/4328192c8
  BnHA II 01: "A więc o to chodzi, Ochako!" [cda];https://ebd.cda.pl/640x406/228334875
  BnHA II 02: "Rycząca olimpiada sportowa" [cda];https://ebd.cda.pl/640x406/22833513c
  BnHA II 03: "Swoim indywidualnym sposobem" [cda];https://ebd.cda.pl/640x406/2283354f0
@@ -48,6 +84,31 @@
  BnHA III 23: "Deku kontra Kacchan 2" [cda];https://ebd.cda.pl/640x406/30804819e
  BnHA III 24: "Sezon na spotkania" [cda];https://ebd.cda.pl/640x406/3080484f4
  BnHA III 25: "Niezrównany" [cda];https://ebd.cda.pl/640x406/30804876d
+ BnHA IV 01: "Artykuł o 1A" [cda];https://ebd.cda.pl/640x406/40281040d
+ BnHA IV 02: "Overhaul" [cda];https://ebd.cda.pl/640x406/4055608a2
+ BnHA IV 03: "Chłopak spotyka..." [cda];https://ebd.cda.pl/640x406/40764314c
+ BnHA IV 04: "Walcząc z przeznaczeniem" [cda];https://ebd.cda.pl/640x406/413306861
+ BnHA IV 05: "Naprzód, dzielny Red Riocie" [cda];https://ebd.cda.pl/640x406/4163010f3
+ BnHA IV 06: "Nieprzyjemna rozmowa" [cda];https://ebd.cda.pl/640x406/4195417cb
+ BnHA IV 07: "Naprzód!" [cda];https://ebd.cda.pl/640x406/422430107
+ BnHA IV 08: "Suneater z Big Three" [cda];https://ebd.cda.pl/640x406/42332367a
+ BnHA IV 09: "Red Riot" [cda];https://ebd.cda.pl/640x406/427925645
+ BnHA IV 10: "Tymczasowy oddział" [cda];https://ebd.cda.pl/640x406/4307123cf
+ BnHA IV 11: "Lemillion" [cda];https://ebd.cda.pl/640x406/43346096d
+ BnHA IV 12: "Niewidzialna nadzieja" [cda];https://ebd.cda.pl/640x406/436440987
+ BnHA IV 13: "Nieskończone sto procent" [cda];https://ebd.cda.pl/640x406/43980457f
+ BnHA IV 14: "Jasna przyszłość" [cda];https://ebd.cda.pl/640x406/4429418a0
+ BnHA IV 15: "Tlące się płomienie" [cda];https://ebd.cda.pl/640x406/446540900
+ BnHA IV 16: "By zdobyć serca dzieciaków" [cda];https://ebd.cda.pl/640x406/4501115fa
+ BnHA IV 17: "Bądźcie dumni, kandydaci na..." [cda];https://ebd.cda.pl/640x406/4538264f6
+ BnHA IV 18: "Szkolny festiwal" [cda];https://ebd.cda.pl/640x406/45928043b
+ BnHA IV 19: "Przygotowania do festiwalu to..." [cda];https://ebd.cda.pl/640x406/466289964
+ BnHA IV 20: "Gold Tips Imperial" [cda];https://ebd.cda.pl/640x406/4721837ce
+ BnHA IV 21: "Deku versus Gentle Criminal" [cda];https://ebd.cda.pl/640x406/4767419b6
+ BnHA IV 22: "Rozpoczęcie szkolnego festiwalu" [cda];https://ebd.cda.pl/640x406/481664932
+ BnHA IV 23: "Dajmy się ponieść! Szkolny festiwal" [cda];https://ebd.cda.pl/640x406/4860143c2
+ BnHA IV 24: "Japoński Ranking Bohaterów" [cda];https://ebd.cda.pl/640x406/491032686
+ BnHA IV 25: "Jego początek" [cda];https://ebd.cda.pl/640x406/49504846d
  Black Clover 133: "Przebudzenie lwa, ciąg dalszy" [cda];https://ebd.cda.pl/640x406/508890220
  Black Clover 132: "Przebudzenie lwa" [cda];https://ebd.cda.pl/640x406/5089076f9
  Black Clover 131: "Nowe postanowienie" [cda];https://ebd.cda.pl/640x406/50527792b
