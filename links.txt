@@ -1,28 +1,3 @@
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 1;https://ebd.cda.pl/620x395/408731296
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 2;https://ebd.cda.pl/620x395/409659124
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 3;https://ebd.cda.pl/620x395/4096594a6
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 4;https://ebd.cda.pl/620x395/409660014
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 5;https://ebd.cda.pl/620x395/4140691da
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 6;https://ebd.cda.pl/620x395/4140766eb
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 7;https://ebd.cda.pl/620x395/41942201e
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 8;https://ebd.cda.pl/620x395/4202617d2
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 9;https://ebd.cda.pl/620x395/4279736ec
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 10;https://ebd.cda.pl/620x395/4361427d4
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 11;https://ebd.cda.pl/620x395/4361430c4
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Odcinek 12;https://ebd.cda.pl/620x395/4361433ba
-BnHA 01: "Midoriya Izuku: Geneza" [cda];https://ebd.cda.pl/640x406/2280933e7
-BnHA 02: "Czego potrzeba, by zostać bohaterem" [cda];https://ebd.cda.pl/640x406/2283180dc
-BnHA 03: "Ryczące muskuły" [cda];https://ebd.cda.pl/640x406/2283183c7
-BnHA 04: "Linia startu" [cda];https://ebd.cda.pl/640x406/2283186aa
-BnHA 05: "Tyle póki co mogę zrobić" [cda];https://ebd.cda.pl/640x406/228319237
-BnHA 06: "Wściekłość pieprzonego lamusa" [cda];https://ebd.cda.pl/640x406/228319899
-BnHA 07: "Deku vs Kacchan" [cda];https://ebd.cda.pl/640x406/22832016b
-BnHA 08: "Linia startowa Bakugou" [cda];https://ebd.cda.pl/640x406/228320450
-BnHA 09: "Tak jest, daj z siebie wszystko, Iida!" [cda];https://ebd.cda.pl/640x406/22832075c
-BnHA 10: "Starcie z nieznanym" [cda];https://ebd.cda.pl/640x406/228321347
-BnHA 11: "Game Over" [cda];https://ebd.cda.pl/640x406/22832169d
-BnHA 12: "All Might" [cda];https://ebd.cda.pl/640x406/2283219e8
-BnHA 13: "W każdym z naszych serc" [cda];https://ebd.cda.pl/640x406/2283222a7
  BnHA II 01: "A więc o to chodzi, Ochako!" [cda];https://ebd.cda.pl/640x406/228334875
  BnHA II 02: "Rycząca olimpiada sportowa" [cda];https://ebd.cda.pl/640x406/22833513c
  BnHA II 03: "Swoim indywidualnym sposobem" [cda];https://ebd.cda.pl/640x406/2283354f0
