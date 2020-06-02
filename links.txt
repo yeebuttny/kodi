@@ -109,6 +109,181 @@
  BnHA IV 23: "Dajmy się ponieść! Szkolny festiwal" [cda];https://ebd.cda.pl/640x406/4860143c2
  BnHA IV 24: "Japoński Ranking Bohaterów" [cda];https://ebd.cda.pl/640x406/491032686
  BnHA IV 25: "Jego początek" [cda];https://ebd.cda.pl/640x406/49504846d
+ Fairy Tail 001: "Fairy Tail". [cda];https://ebd.cda.pl/640x406/1965297e4
+ Fairy Tail 002: "Ognisty smok, małpa i byk". [cda];https://ebd.cda.pl/640x406/1965300b5
+ Fairy Tail 003: "Infiltracja rezydencji Evaroo". [cda];https://ebd.cda.pl/640x406/196530310
+ Fairy Tail 004: "Drogi Kaby". [cda];https://ebd.cda.pl/640x406/19653099f
+ Fairy Tail 005: "Mag w zbroi". [cda];https://ebd.cda.pl/640x406/196531531
+ Fairy Tail 006: "Wróżki na wietrze". [cda];https://ebd.cda.pl/640x406/19653214e
+ Fairy Tail 007: "Ogień i wiatr". [cda];https://ebd.cda.pl/640x406/1965327be
+ Fairy Tail 008: "Najsilniejsza drużyna". [cda];https://ebd.cda.pl/640x406/196533049
+ Fairy Tail 009: "Natsu zjada wioskę". [cda];https://ebd.cda.pl/640x406/1965336e7
+ Fairy Tail 010: "Natsu kontra Erza". [cda];https://ebd.cda.pl/640x406/196533949
+ Fairy Tail 011: "Przeklęta wyspa". [cda];https://ebd.cda.pl/640x406/1965366d8
+ Fairy Tail 012: "Krople Księżyca". [cda];https://ebd.cda.pl/640x406/1965372f9
+ Fairy Tail 013: "Natsu kontra 'Tnący' Yuuka". [cda];https://ebd.cda.pl/640x406/19653752e
+ Fairy Tail 014: "Rób, co musisz". [cda];https://ebd.cda.pl/640x406/196538480
+ Fairy Tail 015: "Wieczna magia". [cda];https://ebd.cda.pl/640x406/196538742
+ Fairy Tail 016: "Wyspa Galuna, ostateczna walka". [cda];https://ebd.cda.pl/640x406/1965390b1
+ Fairy Tail 017: "Wybuch". [cda];https://ebd.cda.pl/640x406/19653933f
+ Fairy Tail 018: "Sięgnąć nieba". [cda];https://ebd.cda.pl/640x406/1965396b3
+ Fairy Tail 019: "Łączeniozmian". [cda];https://ebd.cda.pl/640x406/196539960
+ Fairy Tail 020: "Natsu i smocze jajo". [cda];https://ebd.cda.pl/640x406/1965402b0
+ Fairy Tail 021: "Phantom Lord". [cda];https://ebd.cda.pl/640x406/196556412
+ Fairy Tail 022: "Lucy Hartphilia". [cda];https://ebd.cda.pl/640x406/196556732
+ Fairy Tail 023: "Piętnaście minut". [cda];https://ebd.cda.pl/640x406/196557097
+ Fairy Tail 024: "Jak być ślepym na te łzy". [cda];https://ebd.cda.pl/640x406/19655730a
+ Fairy Tail 025: "Kwiaty kwitnące w deszczu". [cda];https://ebd.cda.pl/640x406/19655795b
+ Fairy Tail 026: "Skrzydlate płomienie". [cda];https://ebd.cda.pl/640x406/19655826d
+ Fairy Tail 027: "Dwóch Smoczych Zabójców". [cda];https://ebd.cda.pl/640x406/1965585a3
+ Fairy Tail 028: "Prawo wróżki". [cda];https://ebd.cda.pl/640x406/19655912b
+ Fairy Tail 029: "Postanowienie". [cda];https://ebd.cda.pl/640x406/19655943f
+ Fairy Tail 030: "Następne pokolenie". [cda];https://ebd.cda.pl/640x406/19656009c
+ Fairy Tail 031: "Gwiazda, która nie może wrócić na firmament". [cda];https://ebd.cda.pl/640x406/1965603f5
+ Fairy Tail 032: "Król Gwiezdnych Duchów". [cda];https://ebd.cda.pl/640x406/19656125c
+ Fairy Tail 033: "Rajska wieża". [cda];https://ebd.cda.pl/640x406/196561501
+ Fairy Tail 034: "Jellal". [cda];https://ebd.cda.pl/640x406/1965618f5
+ Fairy Tail 035: "Głos ciemności". [cda];https://ebd.cda.pl/640x406/1965624d7
+ Fairy Tail 036: "Rajska gra". [cda];https://ebd.cda.pl/640x406/196563073
+ Fairy Tail 037: "Zbroja wokół serca". [cda];https://ebd.cda.pl/640x406/19656339e
+ Fairy Tail 038: "Przeznaczenie". [cda];https://ebd.cda.pl/640x406/1965639ea
+ Fairy Tail 039: "Modlitwa w blasku świętego światła". [cda];https://ebd.cda.pl/640x406/19656424a
+ Fairy Tail 040: "Tytania odchodzi". [cda];https://ebd.cda.pl/640x406/196564878
+ Fairy Tail 041: "Dom". [cda];https://ebd.cda.pl/640x406/1965669c2
+ Fairy Tail 042: "Bitwa o Fairy Tail". [cda];https://ebd.cda.pl/640x406/1965672fe
+ Fairy Tail 043: "Pokonaj swoich przyjaciół dla swoich przyjaciół". [cda];https://ebd.cda.pl/640x406/19656758d
+ Fairy Tail 044: "Hala Grzmotów". [cda];https://ebd.cda.pl/640x406/196568145
+ Fairy Tail 045: "Nadejście demona". [cda];https://ebd.cda.pl/640x406/196568763
+ Fairy Tail 046: "Zderzenie w Katedrze Caldia". [cda];https://ebd.cda.pl/640x406/196569334
+ Fairy Tail 047: "Potrójny smok". [cda];https://ebd.cda.pl/640x406/19656967e
+ Fairy Tail 048: "Fantazja". [cda];https://ebd.cda.pl/640x406/196569995
+ Fairy Tail 049: "Dzień Przeznaczonego Spotkania". [cda];https://ebd.cda.pl/640x406/1965705b9
+ Fairy Tail 050: "Zadanie specjalne - uważaj na gościa...". [cda];https://ebd.cda.pl/640x406/196570860
+ Fairy Tail 051: "Miłość i szczęście". [cda];https://ebd.cda.pl/640x406/19657299f
+ Fairy Tail 052: "Spotkanie sprzymierzeńców". [cda];https://ebd.cda.pl/640x406/196573595
+ Fairy Tail 053: "Wejście Oracion Seis". [cda];https://ebd.cda.pl/640x406/1965738af
+ Fairy Tail 054: "Niebiańska panna". [cda];https://ebd.cda.pl/640x406/1965744e4
+ Fairy Tail 055: "Dziewczyna i duch". [cda];https://ebd.cda.pl/640x406/196575099
+ Fairy Tail 056: "Śmiertelne Grand Prix". [cda];https://ebd.cda.pl/640x406/19657538f
+ Fairy Tail 057: "Ciemność". [cda];https://ebd.cda.pl/640x406/196575998
+ Fairy Tail 058: "Starcie Gwiezdnych Duchów". [cda];https://ebd.cda.pl/640x406/1965765e6
+ Fairy Tail 059: "Pamięć o Jellalu". [cda];https://ebd.cda.pl/640x406/19657713f
+ Fairy Tail 060: "Marsz destrukcji". [cda];https://ebd.cda.pl/640x406/1965777d5
+ Fairy Tail 061: "Wspaniała podniebna bitwa: Natsu kontra Cobra". [cda];https://ebd.cda.pl/640x406/1965813bf
+ Fairy Tail 062: "Jura – święty mag". [cda];https://ebd.cda.pl/640x406/196581984
+ Fairy Tail 063: "To twoje słowa". [cda];https://ebd.cda.pl/640x406/196582290
+ Fairy Tail 064: "Zero". [cda];https://ebd.cda.pl/640x406/19658289f
+ Fairy Tail 065: "Od pegaza do wróżek". [cda];https://ebd.cda.pl/640x406/196583186
+ Fairy Tail 066: "Potęga uczuć". [cda];https://ebd.cda.pl/640x406/1965840de
+ Fairy Tail 067: "Jestem z tobą". [cda];https://ebd.cda.pl/640x406/1965843d1
+ Fairy Tail 068: "Gildia tylko dla jednej". [cda];https://ebd.cda.pl/640x406/1965849bb
+ Fairy Tail 069: "Zew smoka". [cda];https://ebd.cda.pl/640x406/196585262
+ Fairy Tail 070: "Natsu kontra Gray". [cda];https://ebd.cda.pl/640x406/196585593
+ Fairy Tail 071: "Przyjaźń ponad śmierć". [cda];https://ebd.cda.pl/640x406/196585886
+ Fairy Tail 072: "Czarodziej z Fairy Tail". [cda];https://ebd.cda.pl/640x406/19658619c
+ Fairy Tail 073: "Tęczowa wiśnia". [cda];https://ebd.cda.pl/640x406/1965864ea
+ Fairy Tail 074: "Nowa, ważna misja Wendy". [cda];https://ebd.cda.pl/640x406/1965867cb
+ Fairy Tail 075: "24-godzinny wyścig wytrzymałości". [cda];https://ebd.cda.pl/640x406/1965870e5
+ Fairy Tail 076: "Gildarts". [cda];https://ebd.cda.pl/640x406/1965873c9
+ Fairy Tail 077: "Earthland". [cda];https://ebd.cda.pl/640x406/19658769d
+ Fairy Tail 078: "Edoras". [cda];https://ebd.cda.pl/640x406/1965879d0
+ Fairy Tail 079: "Polowanie na wróżki". [cda];https://ebd.cda.pl/640x406/1965882d0
+ Fairy Tail 080: "Klucz do nadziei". [cda];https://ebd.cda.pl/640x406/19658856c
+ Fairy Tail 081: "Kula ognia". [cda];https://ebd.cda.pl/640x406/19659005e
+ Fairy Tail 082: "Witamy w domu". [cda];https://ebd.cda.pl/640x406/196590698
+ Fairy Tail 083: "Extalia". [cda];https://ebd.cda.pl/640x406/1965909d8
+ Fairy Tail 084: "Leć! Do przyjaciół!". [cda];https://ebd.cda.pl/640x406/196591262
+ Fairy Tail 085: "Kod ETD". [cda];https://ebd.cda.pl/640x406/196591515
+ Fairy Tail 086: "Erza kontra Erza". [cda];https://ebd.cda.pl/640x406/196591831
+ Fairy Tail 087: "To jest życie!". [cda];https://ebd.cda.pl/640x406/196592417
+ Fairy Tail 088: "Wspaniała rzeka gwiazd". [cda];https://ebd.cda.pl/640x406/19659274b
+ Fairy Tail 089: "Zagłada działa smoczego łańcucha". [cda];https://ebd.cda.pl/640x406/1965930ed
+ Fairy Tail 090: "Chłopak z tamtych czasów". [cda];https://ebd.cda.pl/640x406/1965933ef
+ Fairy Tail 091: "Zmysł smoka". [cda];https://ebd.cda.pl/640x406/196593975
+ Fairy Tail 092: "Żywi". [cda];https://ebd.cda.pl/640x406/19659424f
+ Fairy Tail 093: "Tutaj stoję!". [cda];https://ebd.cda.pl/640x406/1965945d6
+ Fairy Tail 094: "Żegnaj, Edolas". [cda];https://ebd.cda.pl/640x406/19659487f
+ Fairy Tail 095: "Lisanna". [cda];https://ebd.cda.pl/640x406/196595163
+ Fairy Tail 096: "Ten, który gasi życie". [cda];https://ebd.cda.pl/640x406/1965954db
+ Fairy Tail 097: "Najlepszy towarzysz". [cda];https://ebd.cda.pl/640x406/196595702
+ Fairy Tail 098: "Kto ma największe szczęście?". [cda];https://ebd.cda.pl/640x406/196596371
+ Fairy Tail 099: "Natsu kontra Gildarts". [cda];https://ebd.cda.pl/640x406/1965966ff
+ Fairy Tail 100: "Mest". [cda];https://ebd.cda.pl/640x406/1965969b5
+ Fairy Tail 101: "Czarny mag". [cda];https://ebd.cda.pl/640x406/19659936d
+ Fairy Tail 102: "Żelazna dusza". [cda];https://ebd.cda.pl/640x406/1965999ca
+ Fairy Tail 103: "Atak Makarova". [cda];https://ebd.cda.pl/640x406/196600279
+ Fairy Tail 104: "Utracona magia". [cda];https://ebd.cda.pl/640x406/1966008c2
+ Fairy Tail 105: "Ognisty smok kontra Bóg Ognia". [cda];https://ebd.cda.pl/640x406/196601437
+ Fairy Tail 106: "Świat wielkiej magii". [cda];https://ebd.cda.pl/640x406/19660172e
+ Fairy Tail 107: "Arka wcielenia". [cda];https://ebd.cda.pl/640x406/1966020b7
+ Fairy Tail 108: "Ludzkie wrota". [cda];https://ebd.cda.pl/640x406/19660238b
+ Fairy Tail 109: "Ognista Lucy". [cda];https://ebd.cda.pl/640x406/196602650
+ Fairy Tail 110: "Ślepy zaułek rozpaczy". [cda];https://ebd.cda.pl/640x406/1966029a0
+ Fairy Tail 111: "Łzy miłości i wigoru". [cda];https://ebd.cda.pl/640x406/196603243
+ Fairy Tail 112: "Słowa nie do wypowiedzenia". [cda];https://ebd.cda.pl/640x406/19660358e
+ Fairy Tail 113: "Drzewo Tenrou". [cda];https://ebd.cda.pl/640x406/1966038d8
+ Fairy Tail 114: "Erza kontra Azuma". [cda];https://ebd.cda.pl/640x406/196604143
+ Fairy Tail 115: "Zamrożony duch". [cda];https://ebd.cda.pl/640x406/196604413
+ Fairy Tail 116: "Moc życia". [cda];https://ebd.cda.pl/640x406/19660474a
+ Fairy Tail 117: "Krzyk burzy". [cda];https://ebd.cda.pl/640x406/1966056ee
+ Fairy Tail 118: "Człowiek bez znamienia". [cda];https://ebd.cda.pl/640x406/196605920
+ Fairy Tail 119: "Najgłębsza sfera". [cda];https://ebd.cda.pl/640x406/196606239
+ Fairy Tail 120: "Świt na Tenroujimie". [cda];https://ebd.cda.pl/640x406/196606546
+ Fairy Tail 121: "Prawo do miłości". [cda];https://ebd.cda.pl/640x406/1966086f2
+ Fairy Tail 122: "Trzymając się za ręce". [cda];https://ebd.cda.pl/640x406/196608908
+ Fairy Tail 123: "Fairy Tail, X791". [cda];https://ebd.cda.pl/640x406/19660924a
+ Fairy Tail 124: "Siedmioletnia przerwa". [cda];https://ebd.cda.pl/640x406/196609847
+ Fairy Tail 125: "Magiczny bal". [cda];https://ebd.cda.pl/640x406/19661010f
+ Fairy Tail 126: "Prawdziwie demoniczny gang trzęsących tyłków". [cda];https://ebd.cda.pl/640x406/19661048d
+ Fairy Tail 127: "Przerażenie niewidzialnej Lucy". [cda];https://ebd.cda.pl/640x406/19661103b
+ Fairy Tail 128: "Pamiątka po ojcu". [cda];https://ebd.cda.pl/640x406/1966113f0
+ Fairy Tail 129: "Ostra walka: Natsu kontra Laxus". [cda];https://ebd.cda.pl/640x406/19661161e
+ Fairy Tail 130: "Lucy na celowniku". [cda];https://ebd.cda.pl/640x406/196612232
+ Fairy Tail 131: "Furia Legionu". [cda];https://ebd.cda.pl/640x406/196612845
+ Fairy Tail 132: "Klucz gwiaździstego nieba". [cda];https://ebd.cda.pl/640x406/196613130
+ Fairy Tail 133: "Podróżujący towarzysze". [cda];https://ebd.cda.pl/640x406/196613459
+ Fairy Tail 134: "Rapsodia labiryntu". [cda];https://ebd.cda.pl/640x406/1966137bb
+ Fairy Tail 135: "Śladami legendy". [cda];https://ebd.cda.pl/640x406/19661401f
+ Fairy Tail 136: "Ponowne odwiedziny prawdziwego zła". [cda];https://ebd.cda.pl/640x406/1966143b8
+ Fairy Tail 137: "Rzecz nie do pojęcia". [cda];https://ebd.cda.pl/640x406/19661463b
+ Fairy Tail 138: "Ta krucjata". [cda];https://ebd.cda.pl/640x406/19661499f
+ Fairy Tail 139: "Już czas". [cda];https://ebd.cda.pl/640x406/1966152c8
+ Fairy Tail 140: "Przybywa nowe Oracion Seis". [cda];https://ebd.cda.pl/640x406/19661557e
+ Fairy Tail 141: "Odnaleźć zegar nieskończoności". [cda];https://ebd.cda.pl/640x406/19661979b
+ Fairy Tail 142: "Niezgoda w walce". [cda];https://ebd.cda.pl/640x406/1966200c3
+ Fairy Tail 143: "Przerwanie połączenia". [cda];https://ebd.cda.pl/640x406/196620357
+ Fairy Tail 144: "Uwolniona rozpacz". [cda];https://ebd.cda.pl/640x406/1966206fa
+ Fairy Tail 145: "Prawdziwy koszmar". [cda];https://ebd.cda.pl/640x406/1966209fb
+ Fairy Tail 146: "Spirala czasu". [cda];https://ebd.cda.pl/640x406/1966212cf
+ Fairy Tail 147: "Do Zamku Nieskończoności!". [cda];https://ebd.cda.pl/640x406/1966215f0
+ Fairy Tail 148: "Łzy anioła". [cda];https://ebd.cda.pl/640x406/1966218d2
+ Fairy Tail 149: "Słyszę głosy moich przyjaciół!". [cda];https://ebd.cda.pl/640x406/1966221eb
+ Fairy Tail 150: "Lucy i Michelle". [cda];https://ebd.cda.pl/640x406/196622483
+ Fairy Tail 151: "Sabertooth". [cda];https://ebd.cda.pl/640x406/196622740
+ Fairy Tail 152: "No i zmierzamy na szczyt!". [cda];https://ebd.cda.pl/640x406/1966233ed
+ Fairy Tail 153: "Gwiezdna pieśń". [cda];https://ebd.cda.pl/640x406/196623665
+ Fairy Tail 154: "Wystarczająca ilość czasu...". [cda];https://ebd.cda.pl/640x406/196624258
+ Fairy Tail 155: "Stolica zakwitwających kwiatów - Crocus". [cda];https://ebd.cda.pl/640x406/196624549
+ Fairy Tail 156: "Podniebny labirynt". [cda];https://ebd.cda.pl/640x406/196625198
+ Fairy Tail 157: "Nowa gildia". [cda];https://ebd.cda.pl/640x406/196625728
+ Fairy Tail 158: "W noc spadających gwiazd". [cda];https://ebd.cda.pl/640x406/1966260d1
+ Fairy Tail 159: "Lucy kontra Flare". [cda];https://ebd.cda.pl/640x406/19662633e
+ Fairy Tail 160: "Zły omen". [cda];https://ebd.cda.pl/640x406/196626958
+ Fairy Tail 161: "Rydwan". [cda];https://ebd.cda.pl/640x406/19662960b
+ Fairy Tail 162: "Elfman kontra Bacchus!". [cda];https://ebd.cda.pl/640x406/196629900
+ Fairy Tail 163: "Mirajane kontra Jenny". [cda];https://ebd.cda.pl/640x406/19663051f
+ Fairy Tail 164: "Kagura kontra Yukino". [cda];https://ebd.cda.pl/640x406/1966308f1
+ Fairy Tail 165: "Urazy są ukryte w nocnej ciszy". [cda];https://ebd.cda.pl/640x406/1966311ed
+ Fairy Tail 166: "Pandemonium". [cda];https://ebd.cda.pl/640x406/19663171b
+ Fairy Tail 167: "Stu na jednego". [cda];https://ebd.cda.pl/640x406/1966320fe
+ Fairy Tail 168: "Laxus kontra Alexei". [cda];https://ebd.cda.pl/640x406/196632695
+ Fairy Tail 169: "Wendy kontra Chelia". [cda];https://ebd.cda.pl/640x406/1966329a3
+ Fairy Tail 170: "Piąstki". [cda];https://ebd.cda.pl/640x406/196633892
+ Fairy Tail 171: "Morska bitwa". [cda];https://ebd.cda.pl/640x406/1966341f0
+ Fairy Tail 172: "Tobie dedykuję te perfumy". [cda];https://ebd.cda.pl/640x406/196634485
+ Fairy Tail 173: "Walka Smoczych Zabójców". [cda];https://ebd.cda.pl/640x406/19663472c
+ Fairy Tail 174: "Cztery smoki". [cda];https://ebd.cda.pl/640x406/196635053
+ Fairy Tail 175: "Natsu kontra bliźniacze smoki". [cda];https://ebd.cda.pl/640x406/1966353ac
  Black Clover 133: "Przebudzenie lwa, ciąg dalszy" [cda];https://ebd.cda.pl/640x406/508890220
  Black Clover 132: "Przebudzenie lwa" [cda];https://ebd.cda.pl/640x406/5089076f9
  Black Clover 131: "Nowe postanowienie" [cda];https://ebd.cda.pl/640x406/50527792b
