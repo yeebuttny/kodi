@@ -23,6 +23,7 @@ _handle=common.addon_handle
 
 def MainMenu(p):
 	addLink("Radio BonTon","https://streaming.inten.pl:8020/bonton.mp3")
+	addLink("Radio VoxFM","https://waw01-03.ic.smcdn.pl/t049-1.mp3")
 	
 	xbmcplugin.endOfDirectory(common.addon_handle)
 
