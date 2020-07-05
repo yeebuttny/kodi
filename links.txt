@@ -1,28 +1,4 @@
  Dr Stone 24: "Głos do wieczności" [cda];https://ebd.cda.pl/640x406/42763944e
- BnHA IV 01: "Artykuł o 1A" [cda];https://ebd.cda.pl/640x406/526164305
- BnHA IV 02: "Overhaul" [cda];https://ebd.cda.pl/640x406/526165273
- BnHA IV 03: "Chłopak spotyka..." [cda];https://ebd.cda.pl/640x406/526165837
- BnHA IV 04: "Walcząc z przeznaczeniem" [cda];https://ebd.cda.pl/640x406/526173079
- BnHA IV 05: "Naprzód, dzielny Red Riocie" [cda];https://ebd.cda.pl/640x406/5261739fa
- BnHA IV 06: "Nieprzyjemna rozmowa" [cda];https://ebd.cda.pl/640x406/52617519a
- BnHA IV 07: "Naprzód!" [cda];https://ebd.cda.pl/640x406/5261760eb
- BnHA IV 08: "Suneater z Big Three" [cda];https://ebd.cda.pl/640x406/5261769c4
- BnHA IV 09: "Red Riot" [cda];https://ebd.cda.pl/640x406/526177266
- BnHA IV 10: "Tymczasowy oddział" [cda];https://ebd.cda.pl/640x406/52617756b
- BnHA IV 11: "Lemillion" [cda];https://ebd.cda.pl/640x406/52617842f
- BnHA IV 12: "Niewidzialna nadzieja" [cda];https://ebd.cda.pl/640x406/526179664
- BnHA IV 13: "Nieskończone sto procent" [cda];https://ebd.cda.pl/640x406/5261805a7
- BnHA IV 14: "Jasna przyszłość" [cda];https://ebd.cda.pl/640x406/5261814b5
- BnHA IV 15: "Tlące się płomienie" [cda];https://ebd.cda.pl/640x406/5261822d6
- BnHA IV 16: "By zdobyć serca dzieciaków" [cda];https://ebd.cda.pl/640x406/52618521e
- BnHA IV 17: "Bądźcie dumni, kandydaci na..." [cda];https://ebd.cda.pl/640x406/5261876de
- BnHA IV 18: "Szkolny festiwal" [cda];https://ebd.cda.pl/640x406/5261898cd
- BnHA IV 19: "Przygotowania do festiwalu to..." [cda];https://ebd.cda.pl/640x406/5261925fc
- BnHA IV 20: "Gold Tips Imperial" [cda];https://ebd.cda.pl/640x406/5261934c3
- BnHA IV 21: "Deku versus Gentle Criminal" [cda];https://ebd.cda.pl/640x406/5261943a3
- BnHA IV 22: "Rozpoczęcie szkolnego festiwalu" [cda];https://ebd.cda.pl/640x406/5261946f6
- BnHA IV 23: "Dajmy się ponieść! Szkolny festiwal" [cda];https://ebd.cda.pl/640x406/52619526c
- BnHA IV 24: "Japoński Ranking Bohaterów" [cda];https://ebd.cda.pl/640x406/52619918a
  BnHA IV 25: "Jego początek" [cda];https://ebd.cda.pl/640x406/526200342
  Fairy Tail 001: "Fairy Tail". [cda];https://ebd.cda.pl/640x406/1965297e4
  Fairy Tail 002: "Ognisty smok, małpa i byk". [cda];https://ebd.cda.pl/640x406/1965300b5
