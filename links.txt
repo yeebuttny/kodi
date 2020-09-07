@@ -185,136 +185,14 @@
  Boruto 162: "Ucieczka z oblężenia" [cda];https://ebd.cda.pl/640x406/5656988b5
  Boruto 163: "Pościg" [cda];https://ebd.cda.pl/640x406/56914707e
  Boruto 164: "Zakazana technika śmierci" [cda];https://ebd.cda.pl/640x406/5691320f9
- Black Clover 133: "Przebudzenie lwa, ciąg dalszy" [cda];https://ebd.cda.pl/640x406/508890220
- Black Clover 132: "Przebudzenie lwa" [cda];https://ebd.cda.pl/640x406/5089076f9
- Black Clover 131: "Nowe postanowienie" [cda];https://ebd.cda.pl/640x406/50527792b
- Black Clover 130: "Nowe zebranie kapitanów Zakonu" [cda];https://ebd.cda.pl/640x406/501190432
- Black Clover 129: "Demon Megicula" [cda];https://ebd.cda.pl/640x406/4967117bc
- Black Clover 128: "Do Królestwa Heart!" [cda];https://ebd.cda.pl/640x406/4926097e3
- Black Clover 127: "Trop" [cda];https://ebd.cda.pl/640x406/488735082
- Black Clover 126: "Wyznanie miłości Błękitnej Róży" [cda];https://ebd.cda.pl/640x406/4837727eb
- Black Clover 125: "Powrót" [cda];https://ebd.cda.pl/640x406/4791971b4
- Black Clover 124: "Wspomnienia Nero, część 2" [cda];https://ebd.cda.pl/640x406/4746491d3
- Black Clover 123: "Wspomnienia Nero, część 1" [cda];https://ebd.cda.pl/640x406/4682885d2
- Black Clover 122: "Najczarniejsi z czarnych" [cda];https://ebd.cda.pl/640x406/4621352ec
- Black Clover 121: "Trzy problemy" [cda];https://ebd.cda.pl/640x406/4560833cc
- Black Clover 120: "Świt" [cda];https://ebd.cda.pl/640x406/45184919d
- Black Clover 119: "Kończący atak" [cda];https://ebd.cda.pl/640x406/44826981f
- Black Clover 118: "Ponowne spotkanie poza czasoprzestrzenią" [cda];https://ebd.cda.pl/640x406/444473302
- Black Clover 117: "Zrywając pieczęć" [cda];https://ebd.cda.pl/640x406/44100514b
- Black Clover 116: "Ostateczny naturalny wróg" [cda];https://ebd.cda.pl/640x406/437794825
- Black Clover 115: "Mózg operacji" [cda];https://ebd.cda.pl/640x406/43187486e
- Black Clover 114: "Ostatni goście" [cda];https://ebd.cda.pl/640x406/42916228b
- Black Clover 113: "Szturm na Pałac Cieni" [cda];https://ebd.cda.pl/640x406/4242608c8
- Black Clover 112: "Godny zaufania człowiek" [cda];https://ebd.cda.pl/640x406/42222676c
- Black Clover 111: "Odbite w lustrze oczy" [cda];https://ebd.cda.pl/640x406/420222710
- Black Clover 110: "Rozszalały byk dołącza do bitwy na szczycie" [cda];https://ebd.cda.pl/640x406/4179232c3
- Black Clover 109: "Bracia magii przestrzennej" [cda];https://ebd.cda.pl/640x406/4143250cb
- Black Clover 108: "Tańcząca księżniczka pola bitwy" [cda];https://ebd.cda.pl/640x406/41195593e
- Black Clover 107: "Bitwa o Zamek Clover" [cda];https://ebd.cda.pl/640x406/40853681b
- Black Clover 106: "Droga zemsty, droga odkupienia" [cda];https://ebd.cda.pl/640x406/406314161
- Black Clover 105: "Śmiech i łzy" [cda];https://ebd.cda.pl/640x406/4042501a4
- Black Clover 104: "Błyskawice wściekłości kontra przyjaciele" [cda];https://ebd.cda.pl/640x406/401438227
- Black Clover 103: "Wyzwolenie z nieszczęścia" [cda];https://ebd.cda.pl/640x406/399460637
- Black Clover 102: "Dwa cuda" [cda];https://ebd.cda.pl/640x406/3973648d5
- Black Clover 101: "Życie w wiosce na peryferiach" [cda];https://ebd.cda.pl/640x406/39348438d
- Black Clover 100: "Nie przegramy z wami" [cda];https://ebd.cda.pl/640x406/3913141a1
- Black Clover 099: "Desperacka droga do przetrwania" [cda];https://ebd.cda.pl/640x406/3873112dc
- Black Clover 098: "Uśpiony lew" [cda];https://ebd.cda.pl/640x406/384366100
- Black Clover 097: "Przytłaczająca przewaga wroga" [cda];https://ebd.cda.pl/640x406/381604376
- Black Clover 096: "Kapitan Czarnych Byków kontra..." [cda];https://ebd.cda.pl/640x406/379180644
- Black Clover 095: "Reinkarnacja" [cda];https://ebd.cda.pl/640x406/376029172
- Black Clover 094: "Nowa przyszłość" [cda];https://ebd.cda.pl/640x406/373813019
- Black Clover 093: "Julius Novachrono" [cda];https://ebd.cda.pl/640x406/3738127aa
- Black Clover 092: "Cesarz magii kontra przywódca Oka..." [cda];https://ebd.cda.pl/640x406/3738124c5
- Black Clover 091: "Mereoleona kontra Niewierny Raia" [cda];https://ebd.cda.pl/640x406/3660526d9
- Black Clover 090: "Szalona bitwa magiczna" [cda];https://ebd.cda.pl/640x406/363316314
- Black Clover 089: "Kwatera Czarnych Byków" [cda];https://ebd.cda.pl/640x406/3612442ed
- Black Clover 088: "Szturm na kryjówkę Oka Białej Nocy" [cda];https://ebd.cda.pl/640x406/35899424c
- Black Clover 087: "Utworzenie Rycerzy Korony" [cda];https://ebd.cda.pl/640x406/357109623
- Black Clover 086: "Yami i Vangeance" [cda];https://ebd.cda.pl/640x406/35433613b
- Black Clover 085: "Braterstwo golasów" [cda];https://ebd.cda.pl/640x406/3519823c3
- Black Clover 084: "Zwycięzcy" [cda];https://ebd.cda.pl/640x406/3492772c2
- Black Clover 083: "Wyryj to w swojej pamięci" [cda];https://ebd.cda.pl/640x406/34689480c
- Black Clover 082: "Petit Clover: Koszmar Charmy" [cda];https://ebd.cda.pl/640x406/344953321
- Black Clover 081: "Życie pewnego mężczyzny" [cda];https://ebd.cda.pl/640x406/34284851e
- Black Clover 080: "Utalentowany młodszy brat kontra nie..." [cda];https://ebd.cda.pl/640x406/3394678e5
- Black Clover 079: "Senpai chuligan kontra umięśniony kurdupel" [cda];https://ebd.cda.pl/640x406/33748397f
- Black Clover 078: "Plebejska pułapka" [cda];https://ebd.cda.pl/640x406/334936377
- Black Clover 077: "Zła krew" [cda];https://ebd.cda.pl/640x406/333101242
- Black Clover 076: "Mag X" [cda];https://ebd.cda.pl/640x406/3331009e4
- Black Clover 075: "Zażarta walka" [cda];https://ebd.cda.pl/640x406/333100329
- Black Clover 074: "Kwiat determinacji" [cda];https://ebd.cda.pl/640x406/3331000c6
- Black Clover 073: "Egzamin rekrutacyjny do Rycerzy Korony" [cda];https://ebd.cda.pl/640x406/3330994ae
- Black Clover 072: "Ognie świętego Elma" [cda];https://ebd.cda.pl/640x406/3330988f0
- Black Clover 071: "Niepokonana lwica bez korony" [cda];https://ebd.cda.pl/640x406/3330985c0
- Black Clover 070: "Dwie nowe gwiazdy" [cda];https://ebd.cda.pl/640x406/33309794a
- Black Clover 069: "Melancholia cierniowej kobiety" [cda];https://ebd.cda.pl/640x406/3330976e8
- Black Clover 068: "Yami i Kuba walczą na śmierć i życie" [cda];https://ebd.cda.pl/640x406/3330973f8
- Black Clover 067: "Podwójna randka na festiwalu" [cda];https://ebd.cda.pl/640x406/33309709e
- Black Clover 066: "Sekret Oka Białej Nocy" [cda];https://ebd.cda.pl/640x406/333096798
- Black Clover 065: "Wróciłam" [cda];https://ebd.cda.pl/640x406/3330958bb
- Black Clover 064: "Czerwona nić losu" [cda];https://ebd.cda.pl/640x406/333094362
- Black Clover 063: "Nikt wyjątkowy" [cda];https://ebd.cda.pl/640x406/333092821
- Black Clover 062: "Ci, którzy wzmacniają się nawzajem" [cda];https://ebd.cda.pl/640x406/333092546
- Black Clover 061: "Ziemia obiecana" [cda];https://ebd.cda.pl/640x406/33309222c
- Black Clover 060: "Zadośćuczynienie uciekinierki" [cda];https://ebd.cda.pl/640x406/333091944
- Black Clover 059: "Płomienie nienawiści" [cda];https://ebd.cda.pl/640x406/333091305
- Black Clover 058: "Decyzja na polu bitwy" [cda];https://ebd.cda.pl/640x406/3330910b6
- Black Clover 057: "Infiltracja" [cda];https://ebd.cda.pl/640x406/33309074d
- Black Clover 056: "Człowiek zwany Fanzell, część 2" [cda];https://ebd.cda.pl/640x406/3330904a2
- Black Clover 055: "Człowiek zwany Fanzell, część 1" [cda];https://ebd.cda.pl/640x406/3330898af
- Black Clover 054: "Nigdy więcej" [cda];https://ebd.cda.pl/640x406/267492368
- Black Clover 053: "Sekret skrywany pod maską" [cda];https://ebd.cda.pl/640x406/26575351d
- Black Clover 052: "Silniejszy zawsze wygrywa" [cda];https://ebd.cda.pl/640x406/263826318
- Black Clover 051: "Dowód słuszności" [cda];https://ebd.cda.pl/640x406/26188224f
- Black Clover 050: "Koniec bitwy, koniec rozpaczy" [cda];https://ebd.cda.pl/640x406/260335795
- Black Clover 049: "Poza granice" [cda];https://ebd.cda.pl/640x406/25873326b
- Black Clover 048: "Rozpacz kontra nadzieja" [cda];https://ebd.cda.pl/640x406/257148681
- Black Clover 047: "Jedyna broń" [cda];https://ebd.cda.pl/640x406/255577243
- Black Clover 046: "Przebudzenie" [cda];https://ebd.cda.pl/640x406/253473924
- Black Clover 045: "Chłopak, który nie wiedział, kiedy odpuścić" [cda];https://ebd.cda.pl/640x406/25212998a
- Black Clover 044: "Naiwna kula ognia i nieokiełznany piorun" [cda];https://ebd.cda.pl/640x406/250472882
- Black Clover 043: "Battle royale w świątyni" [cda];https://ebd.cda.pl/640x406/2489414b9
- Black Clover 042: "Podwodna Świątynia" [cda];https://ebd.cda.pl/640x406/24739552e
- Black Clover 041: "Historia dorastania wodnej dziewczyny" [cda];https://ebd.cda.pl/640x406/24597248a
- Black Clover 040: "Legenda Czarnej Plaży" [cda];https://ebd.cda.pl/640x406/243341044
- Black Clover 039: "Trzylistne pozdrowienie" [cda];https://ebd.cda.pl/640x406/241420236
- Black Clover 038: "Konferencja kapitanów" [cda];https://ebd.cda.pl/640x406/240009290
- Black Clover 037: "Ten, który urodził się bez magii" [cda];https://ebd.cda.pl/640x406/297745557
- Black Clover 036: "Troje oczu" [cda];https://ebd.cda.pl/640x406/236415674
- Black Clover 035: "Światło sprawiedliwości" [cda];https://ebd.cda.pl/640x406/23475009c
- Black Clover 034: "Magia światła kontra magia mroku" [cda];https://ebd.cda.pl/640x406/23243706e
- Black Clover 033: "By pewnego dnia komuś pomóc" [cda];https://ebd.cda.pl/640x406/2304825ce
- Black Clover 032: "Trzy listki" [cda];https://ebd.cda.pl/640x406/2280000be
- Black Clover 031: "Pościg na śniegu" [cda];https://ebd.cda.pl/640x406/2272050a4
- Black Clover 030: "Lustrzany Mag" [cda];https://ebd.cda.pl/640x406/225088592
- Black Clover 029: "Ścieżka" [cda];https://ebd.cda.pl/640x406/2227397a5
- Black Clover 028: "Wybranka serca" [cda];https://ebd.cda.pl/640x406/2198836dd
- Black Clover 027: "Światło" [cda];https://ebd.cda.pl/640x406/21632294a
- Black Clover 026: "Zranione bestie" [cda];https://ebd.cda.pl/640x406/213715221
- Black Clover 025: "Przeciwności losu" [cda];https://ebd.cda.pl/640x406/211603898
- Black Clover 024: "Blackout" [cda];https://ebd.cda.pl/640x406/209827239
- Black Clover 023: "Szkarłatny Lew" [cda];https://ebd.cda.pl/640x406/207281786
- Black Clover 022: "Dziki taniec magii" [cda];https://ebd.cda.pl/640x406/20530921a
- Black Clover 021: "Stolica w ogniu" [cda];https://ebd.cda.pl/640x406/202763700
- Black Clover 020: "Zebranie w stolicy" [cda];https://ebd.cda.pl/640x406/2001324a9
- Black Clover 019: "Zniszczenie i wybawienie" [cda];https://ebd.cda.pl/640x406/198233728
- Black Clover 018: "Wspomnienia o tobie" [cda];https://ebd.cda.pl/640x406/195596958
- Black Clover 017: "Niszczyciel" [cda];https://ebd.cda.pl/640x406/193154982
- Black Clover 016: "Przyjaciele" [cda];https://ebd.cda.pl/640x406/19032867a
- Black Clover 015: "Diamentowy Mag" [cda];https://ebd.cda.pl/640x406/188057358
- Black Clover 014: "Lochy" [cda];https://ebd.cda.pl/640x406/1860074b9
- Black Clover 013: "Oczami cesarza magii, ciąg dalszy" [cda];https://ebd.cda.pl/640x406/180927595
- Black Clover 012: "Oczami cesarza magii" [cda];https://ebd.cda.pl/640x406/179728147
- Black Clover 011: "Pewnego dnia w miasteczku zamkowym" [cda];https://ebd.cda.pl/640x406/1773343aa
- Black Clover 010: "Ci, którzy chronią" [cda];https://ebd.cda.pl/640x406/176001453
- Black Clover 009: "Bestia" [cda];https://ebd.cda.pl/640x406/1743079ae
- Black Clover 008: "Nadchodzi pierwsza misja" [cda];https://ebd.cda.pl/640x406/1728862b1
- Black Clover 007: "Drugi rekrut" [cda];https://ebd.cda.pl/640x406/170620373
- Black Clover 006: "Czarne Byki" [cda];https://ebd.cda.pl/640x406/168035568
- Black Clover 005: "Droga do tytułu cesarza magii" [cda];https://ebd.cda.pl/640x406/1660957ee
- Black Clover 004: "Egzamin na magicznego rycerza" [cda];https://ebd.cda.pl/640x406/166095449
- Black Clover 003: "Do stolicy Królestwa Clover!" [cda];https://ebd.cda.pl/640x406/166095141
- Black Clover 002: "Przysięga dwóch chłopców" [cda];https://ebd.cda.pl/640x406/166094590
- Black Clover 001: "Asta i Yuno" [cda];https://ebd.cda.pl/640x406/1660936d8
+ Black Clover 132: "Przebudzenie lwa" [cda];https://ebd.cda.pl/640x406/562912416
+ Black Clover 133: "Przebudzenie lwa, ciąg dalszy" [cda];https://ebd.cda.pl/640x406/5451555d0
+ Black Clover 134: "Wezwani" [cda];https://ebd.cda.pl/640x406/5480534b6
+ Black Clover 135: "Osoba w mym sercu, umyśle i duszy" [cda];https://ebd.cda.pl/640x406/551230772
+ Black Clover 136: "Mroczna historia morskiej otchłani" [cda];https://ebd.cda.pl/640x406/553999219
+ Black Clover 137: "Sto lat głodu Charmy i tysiąc lat..." [cda];https://ebd.cda.pl/640x406/557020897
+ Black Clover 138: "Następca Zary" [cda];https://ebd.cda.pl/640x406/560361361
+ Black Clover 139: "Powrót czarownicy" [cda];https://ebd.cda.pl/640x406/56343980e
+ Black Clover 140: "Prośba Juliusa" [cda];https://ebd.cda.pl/640x406/566517538
+ Black Clover 141: "Złota rodzina" [cda];https://ebd.cda.pl/640x406/57030442b
+ Black Clover 142: "Pozostawieni" [cda];https://ebd.cda.pl/640x406/570278950
