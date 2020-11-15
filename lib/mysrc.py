@@ -7,7 +7,6 @@ import urllib, urllib2,  cookielib, ssl, zlib, base64
 import string, json
 import resolveurl as urlresolve
 
-from resources.lib import helpers
 from resources.lib import common
 
 rot13 = string.maketrans(
