@@ -62,7 +62,7 @@ def mdict(s):
 	d=[]
 	for i in range(len(s)):
 		ii=s[i].split(';')
-		d.append([ii[0],ii[1]])
+		d.append(ii[0],ii[1])
 	return d
 
 
