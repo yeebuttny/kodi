@@ -302,12 +302,12 @@ Good Doctor s4e2 aparat napisy;https://aparat.cam/n2f1lqd0nkxg
  One Piece 394: "Ratować Caimie - mroczna historia archipelagu" [cda];https://ebd.cda.pl/640x406/1991319e6
  One Piece 395: "Limit czasu - ludzka aukcja rozpoczęta" [cda];https://ebd.cda.pl/640x406/19988180b
  One Piece 396: "Eksplodująca pięść! Zniszczenie aukcji" [cda];https://ebd.cda.pl/640x406/1998820ab
- One Piece 397: "Olbrzymia panika! Starcie w hali aukcyjnej" [cda];https://ebd.cda.pl/640x406/199882299
- One Piece 398: "Ruch admirała Kizaru! Archipelag Sabaody..." [cda];https://ebd.cda.pl/640x406/199882475
- One Piece 399: "Przełamać opór! Marynarka kontra..." [cda];https://ebd.cda.pl/640x406/19913341a
- One Piece 400: "Roger i Rayleigh - król piratów i..." [cda];https://ebd.cda.pl/640x406/199133777
- One Piece 401: "Niemożliwy do uniku?! Prędkość świetlnego..." [cda];https://ebd.cda.pl/640x406/199144266
- One Piece 402: "Druzgocące! Bojowa broń marynarki, pacyfista" [cda];https://ebd.cda.pl/640x406/199882653
+ One Piece 397: "Olbrzymia panika! Starcie w hali aukcyjnej" [cda];https://ebd.cda.pl/640x406/5936972a4
+ One Piece 398: "Ruch admirała Kizaru! Archipelag Sabaody..." [cda];https://ebd.cda.pl/640x406/59369756c
+ One Piece 399: "Przełamać opór! Marynarka kontra..." [cda];https://ebd.cda.pl/640x406/5936993cc
+ One Piece 400: "Roger i Rayleigh - król piratów i..." [cda];https://ebd.cda.pl/640x406/5937008f6
+ One Piece 401: "Niemożliwy do uniku?! Prędkość świetlnego..." [cda];https://ebd.cda.pl/640x406/593706572
+ One Piece 402: "Druzgocące! Bojowa broń marynarki, pacyfista" [cda];https://ebd.cda.pl/640x406/59370680a
  One Piece 403: "Inny silny przeciwnik przybywa! Sentoumaru..." [cda];https://ebd.cda.pl/640x406/1998828dc
  One Piece 404: "Zażarty atak admirała Kizaru. Beznadziejna..." [cda];https://ebd.cda.pl/640x406/19988305b
  One Piece 405: "Znikający kompani. Ostateczny dzień załogi..." [cda];https://ebd.cda.pl/640x406/199883241
