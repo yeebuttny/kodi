@@ -302,22 +302,22 @@ Good Doctor s3e9 aparat napisy;https://aparat.cam/dt60yafo0av4
  One Piece 401: "Niemożliwy do uniku?! Prędkość świetlnego..." [cda];https://ebd.cda.pl/640x406/593706572
  One Piece 402: "Druzgocące! Bojowa broń marynarki, pacyfista" [cda];https://ebd.cda.pl/640x406/59370680a
  One Piece 403: "Inny silny przeciwnik przybywa! Sentoumaru..." [cda];https://ebd.cda.pl/640x406/1998828dc
- One Piece 404: "Zażarty atak admirała Kizaru. Beznadziejna..." [cda];https://ebd.cda.pl/640x406/19988305b
- One Piece 405: "Znikający kompani. Ostateczny dzień załogi..." [cda];https://ebd.cda.pl/640x406/199883241
+ One Piece 404: "Zażarty atak admirała Kizaru. Beznadziejna..." [cda];https://ebd.cda.pl/640x406/593713106
+ One Piece 405: "Znikający kompani. Ostateczny dzień załogi..." [cda];https://ebd.cda.pl/640x406/59371344b
  One Piece 406: "Historia specjalna. Szef Luffy przybywa ponownie" [cda];https://ebd.cda.pl/640x406/1991457fd
  One Piece 407: "Historia specjalna. Zniszczenie! Pułapka..." [cda];https://ebd.cda.pl/640x406/199883411
- One Piece 408: "Przybycie! Nie dla chłopców, wyspa amazonek Lily" [cda];https://ebd.cda.pl/640x406/1998838c9
- One Piece 409: "Szybko! Wróć do swoich przyjaciół. Przygoda na..." [cda];https://ebd.cda.pl/640x406/199884003
- One Piece 410: "Wszyscy są oczarowani! Piracka..." [cda];https://ebd.cda.pl/640x406/1998842d3
- One Piece 411: "Sekret ukryty na jej plecach. Spotkanie..." [cda];https://ebd.cda.pl/640x406/1991478fe
- One Piece 412: "Bezduszny wyrok! Marguerite zamieniona..." [cda];https://ebd.cda.pl/640x406/199884445
- One Piece 413: "Ciężka próba Luffy'ego! Moc haki wężowych..." [cda];https://ebd.cda.pl/640x406/1998846cc
- One Piece 414: "Walka ze wszystkich sił! Gomu Gomu kontra..." [cda];https://ebd.cda.pl/640x406/199884841
+ One Piece 408: "Przybycie! Nie dla chłopców, wyspa amazonek Lily" [cda];https://ebd.cda.pl/640x406/59371405c
+ One Piece 409: "Szybko! Wróć do swoich przyjaciół. Przygoda na..." [cda];https://ebd.cda.pl/640x406/59371523f
+ One Piece 410: "Wszyscy są oczarowani! Piracka..." [cda];https://ebd.cda.pl/640x406/5937158c1
+ One Piece 411: "Sekret ukryty na jej plecach. Spotkanie..." [cda];https://ebd.cda.pl/640x406/593718217
+ One Piece 412: "Bezduszny wyrok! Marguerite zamieniona..." [cda];https://ebd.cda.pl/640x406/5937215ba
+ One Piece 413: "Ciężka próba Luffy'ego! Moc haki wężowych..." [cda];https://ebd.cda.pl/640x406/5937218ce
+ One Piece 414: "Walka ze wszystkich sił! Gomu Gomu kontra..." [cda];https://ebd.cda.pl/640x406/593723605
  One Piece 415: "Wyznanie Hancock - straszliwa historia sióstr" [cda];https://ebd.cda.pl/640x406/199885028
- One Piece 416: "Ocalić Ace'a! Następny przystanek - wielkie..." [cda];https://ebd.cda.pl/640x406/19988521d
- One Piece 417: "Miłość jest burzliwa! Zakochana Hancock" [cda];https://ebd.cda.pl/640x406/199885491
- One Piece 418: "Miejsce pobytu załogi. Nauka pogody..." [cda];https://ebd.cda.pl/640x406/199885686
- One Piece 419: "Miejsce pobytu załogi. Wyspa ogromnych..." [cda];https://ebd.cda.pl/640x406/199886092
+ One Piece 416: "Ocalić Ace'a! Następny przystanek - wielkie..." [cda];https://ebd.cda.pl/640x406/5937239df
+ One Piece 417: "Miłość jest burzliwa! Zakochana Hancock" [cda];https://ebd.cda.pl/640x406/5937257f1
+ One Piece 418: "Miejsce pobytu załogi. Nauka pogody..." [cda];https://ebd.cda.pl/640x406/59372754e
+ One Piece 419: "Miejsce pobytu załogi. Wyspa ogromnych..." [cda];https://ebd.cda.pl/640x406/5937299fb
  One Piece 420: "Miejsce pobytu załogi. Most łączący wyspę..." [cda];https://ebd.cda.pl/640x406/199886226
  One Piece 421: "Miejsce pobytu przyjaciół. Negatywna..." [cda];https://ebd.cda.pl/640x406/199886428
  One Piece 422: "Śmiertelnie niebezpieczne wtargnięcie..." [cda];https://ebd.cda.pl/640x406/1998866cb
